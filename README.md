@@ -2,6 +2,8 @@
 
 A simple, single-page portfolio/CV built with React + TypeScript + Vite.
 
+Project page: https://roadmap.sh/projects/single-page-cv
+
 ## Quick Start
 
 ```bash
@@ -41,4 +43,3 @@ In `hero.contacts`, set:
 - `npm run lint` - run ESLint
 - `npm run build` - typecheck + build
 - `npm run preview` - preview the production build
-
